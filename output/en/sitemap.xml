@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>./blog/posts/2019/05/08/autossh-tunell-in-ubuntu/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2019/05/08/vnc-server-in-ubuntu/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2019/02/27/usefull-commands-elasticsearch/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2019/02/27/zimbra-security/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/10/20/notificarea-utilizatorilo-despre-expirarea-parolei/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/10/18/exportarea-drepturilor-administrator-delegat-zimbra/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/10/18/open-relay-local-in-zimbra/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/09/26/send-mail-from-console/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/06/22/zimbra-backup-rezervarea-cutiilor-postale-in-zimbra-foss/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/06/21/script-de-modificare-a-fisierelor-in-recursie-pe-foldere/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/06/18/automatizarea-sesiunilor-tmux-cu-tmuxp/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/06/18/udpxy-pentru-translarea-rtsp/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/06/18/afisarea-variabilelor-in-python/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/06/15/lucram-cu-functia-random-in-python/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/06/13/lucram-cu-browserul-firefox-din-consola-linux/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/06/07/lansarea-aplicatiilor-la-distanta-cu-display/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/06/04/instalarea-unei-versiuni-vechi-firefox-in-linux/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/29/teste-de-performanta-cu-selenium-grid/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/28/dezvoltam-pelican-cream-plugin-uri/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/28/cautare-in-blog-cu-elasticsearch/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/25/inseram-cuprins-ul-in-blogul-pelican/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/25/butonul-showhide-in-blogul-pelican/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/25/elasticsearch-in-scripturi-python/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/24/lucram-cu-elasticsearch-in-proiecte/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/24/how-to-transfer-the-spam-db-to-another-server/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/24/iconite-vector-in-blogul-pelican/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/24/pelican-related-posts/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/22/add-calendar-to-all-zimbra-users/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/20/tmux-screen-manager/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/18/ffmpeg-stream-webcam/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/18/install-pelican-virtualenv/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/18/modify-theme-bootstrap/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/18/git-commonly-commands/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/17/pelican-markdown/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/17/create-pelican-blog/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/17/pelican-themes-plugins/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/17/zimbra-bash-change-status-of-account/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/17/primul-post/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2018/05/16/use-github/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2017/05/17/test-typography-table/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>./blog/posts/2017/05/17/fsck-bad-blocks-mark/</loc>
+    <priority>0.8</priority>
+  </url>
+
+
+
+</urlset>
